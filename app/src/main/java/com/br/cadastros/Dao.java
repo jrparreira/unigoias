@@ -7,6 +7,7 @@ import androidx.room.Query;
 import androidx.room.Update;
 import java.util.List;
 // Adicionando anotação à nossa classe Dao
+//Teste integração git
 @androidx.room.Dao
 
 public interface Dao {
